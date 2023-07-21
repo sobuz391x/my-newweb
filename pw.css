@@ -1,0 +1,119 @@
+
+body{ 
+    margin: 0%;
+    font-family:'Poppins',sans-serif;
+}
+/* .logo{ 
+    color: black;
+    text-align: center;
+    padding:14px 16px;
+    text-decoration: none;
+    margin-left: 50px;} */
+
+
+
+ul {
+    
+    list-style-type: none;
+   margin-top: 0%;
+     overflow: hidden;  
+     display:block
+  
+    
+  }
+  
+  li{float: left;
+}
+
+
+
+
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  
+nav a:hover { background-color: gray;
+    color: #fff; /* Change text color on hover */
+}
+
+
+
+h1{ font-size: 50px; 
+color: blueviolet;}
+ 
+p{ font-size: 25px;
+    color: dimgray;
+}
+
+.top-banner{
+    background-image:url( personal-website/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+.half-width{
+
+    width: 35%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;}
+
+
+.half-width img { width:90%;} 
+
+#top{ height: 500px;
+
+padding-bottom: 150px;
+
+}
+
+#middle
+    { height: 500px; 
+        padding-bottom: 150px;}
+         
+        #bottom{    height: 500px;
+            padding-bottom: 150px;
+
+        
+        }
+
+
+
+.a-button{ 
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightBlue , tomato);
+    padding: 15px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+}
+ #latestwork img{
+    display: inline-flex;
+    width: 20% ;
+    align-items: center;
+    margin: 10px;
+    border: 2px;
+    border-color: gray;
+    background-color: slategray;
+    border-radius: 5px;
+ }
+ .email{
+    box-shadow: 10px 10px 40px gray; 
+    height: 200px;
+    border-radius: 25px;
+    background-color: rgb(218, 44, 44);
+    width: 40%;
+    float: left; 
+   margin-left: 25%;
+   padding-left: 7%;
+}
+   
+   footer { text-align: center;
+    font-size: 12px;} 
+    
